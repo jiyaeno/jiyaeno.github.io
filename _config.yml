@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ji Yae (Catherine) No"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ji Yae No"
+  name             : "Ji Yae (Catherine) No"
   pronouns         : "she/her"  
   bio              : "Fourth Year Physics and Mathematics Student in the University of Chicago"
   location         : "Chicago"
